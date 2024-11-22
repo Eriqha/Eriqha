@@ -14,7 +14,7 @@
         <Label
         Text="CALCULATOR"
         TextColor="White"
-        BackgroundColor="#ADD8E6"
+        BackgroundColor="#c9e6ad"
         FontSize="28"
         HorizontalOptions="Center"
         />    
