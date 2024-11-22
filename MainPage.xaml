@@ -13,9 +13,9 @@
             VerticalOptions="FillAndExpand"/>
         <Label
         Text="CALCULATOR"
-        TextColor="Black"
+        TextColor="White"
         BackgroundColor="#ADD8E6"
-        FontSize="25"
+        FontSize="28"
         HorizontalOptions="Center"
         />    
         <Label
